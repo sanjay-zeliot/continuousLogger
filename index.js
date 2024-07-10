@@ -6,3 +6,5 @@ const startLogging = () => {
 };
 
 startLogging();
+
+// Hello
