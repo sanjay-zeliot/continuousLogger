@@ -2,7 +2,7 @@ const startLogging = () => {
   let i = 1;
   setInterval(() => {
     console.log("Hello World!!" + i++);
-    console.log("Hello from Oman for Teltonika devices!!!!");
+    console.log("Heelo brad from Condense ......!!!!");
   }, 2000);
 };
 
